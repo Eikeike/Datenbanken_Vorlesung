@@ -1,0 +1,13 @@
+
+Was versteht man unter Datenbank-Schema?
+Ein Datenbankschema die Menge von Relationsschemata inklusive der globalen Integritätsbedingungen.
+
+Erklären Sie den Unterschied zwischen Datenbank und DBMS:
+Eine Datenbank ist das System,  in dem die eigentlichen Daten gespeichert sind. Diese werden mithilfe des Datenbankmanagementsystems (DBMS) verwaltet.
+
+Was für Arten von Integritätsbedingungen, die DBMSe unterstützen, kennen Sie?
+-Primärschlüssel
+-Fremdschlüssel
+-UNIQUE
+-NOT NULL
+-DEFAULT
